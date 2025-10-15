@@ -1,0 +1,6 @@
+This Folder holds the Main files of  the webapp(streamlit) and also the Logger file 
+there are also temporary Files example config and Status these json files are created and edited automatically when the main code is running 
+the program reads these json and displays it 
+the logger is a process that can be run in background with distrubing the orginal process and hence working parallel every thing is controlled by the WEBAPP file itself  
+other files and code are Called as needed byy process calling 
+Sql database query has to be Run before Hand to have a Database and Table ready to Log 
