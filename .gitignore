@@ -1,0 +1,39 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.env.*
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Database or credentials
+*.db
+*.sqlite3
+*.sqlite
+credentials.json
+
+# Streamlit cache
+.streamlit/
+.streamlit-cache/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Backup / temp files
+*.bak
+*.tmp
+*.old
