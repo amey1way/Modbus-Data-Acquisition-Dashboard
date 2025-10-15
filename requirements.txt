@@ -1,0 +1,17 @@
+mysql-connector-python
+pymodbus
+streamlit
+psutil
+pandas
+plotly
+
+
+| built-in
+
+json 
+time 
+datetime 
+os 
+subprocess 
+signal 
+
