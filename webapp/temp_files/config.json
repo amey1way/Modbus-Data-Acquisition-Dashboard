@@ -1,0 +1,16 @@
+{
+  "modbus": {
+    "port": "[port]",
+    "baudrate": 9600,
+    "stopbits": 1,
+    "parity": "N",
+    "bytesize": 8
+  },
+  "mysql": {
+    "host": "[host credentials]",
+    "user": "[Username]",
+    "password": "[password]",
+    "database": "[Database]"
+  },
+  "interval": 1
+}
