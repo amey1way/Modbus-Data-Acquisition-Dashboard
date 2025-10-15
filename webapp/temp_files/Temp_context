@@ -1,0 +1,3 @@
+This are temporary files examples that are created adn read by main code 
+Config is Craeted to give the logger script the credentials to the modbus Connection 
+status is created to read teh current value & details of data logging in the database
